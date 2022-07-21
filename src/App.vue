@@ -1,12 +1,19 @@
 <script setup lang="ts">
-import HeroSection from './components/HeroSection.vue';
-import SolutionSection from './components/SolutionSection.vue';
+import HeroSection from './components/HeroSection.vue'
+import SolutionSection from './components/SolutionSection.vue'
+import DataSection from './components/DataSection.vue'
+import SolutionSection2 from './components/SolutionSection2.vue'
+import HappyClient from './components/HappyClient.vue'
+import SubscribeSection from './components/SubscribeSection.vue'
 </script>
 
 <template>
-  <HeroSection/>
-  <SolutionSection/>
+  <HeroSection />
+  <SolutionSection />
+  <DataSection />
+  <SolutionSection2 />
+  <HappyClient />
+  <SubscribeSection />
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
