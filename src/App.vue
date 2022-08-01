@@ -5,6 +5,7 @@ import DataSection from './components/DataSection.vue'
 import SolutionSection2 from './components/SolutionSection2.vue'
 import HappyClient from './components/HappyClient.vue'
 import SubscribeSection from './components/SubscribeSection.vue'
+import FooterSection from './components/FooterSection.vue'
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import SubscribeSection from './components/SubscribeSection.vue'
   <SolutionSection2 />
   <HappyClient />
   <SubscribeSection />
+  <FooterSection />
 </template>
 
 <style scoped></style>
